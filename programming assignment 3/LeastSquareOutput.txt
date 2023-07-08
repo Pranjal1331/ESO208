@@ -1,0 +1,7 @@
+Approximated coefficients are: 
+
+1.027  -3.744  28.959  -52.383  49.056  
+
+Coeffecient of determination : 
+
+0.999
